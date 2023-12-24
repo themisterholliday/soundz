@@ -18,10 +18,10 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.1",
     "parcel": "^2.10.3",
-    "parcel-reporter-static-files-copy": "^1.5.3"
+    "parcel-reporter-static-files-copy": "^1.5.3",
+    "@parcel/config-default": "^2.10.3"
   },
   "dependencies": {
-    "@parcel/config-default": "^2.10.3",
     "howler": "^2.2.4"
   }
 }
