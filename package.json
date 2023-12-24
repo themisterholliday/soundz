@@ -1,7 +1,7 @@
 {
   "name": "soundz",
   "version": "0.0.1",
-  "description": "",
+  "description": "a small library for playing pre-defined sounds in a browser",
   "source": "src/index.js",
   "main": "dist/main.js",
   "browserslist": "> 0.5%, last 2 versions, not dead",
@@ -11,7 +11,7 @@
     "build": "parcel build"
   },
   "keywords": [],
-  "author": "",
+  "author": "hello@craigaholliday.com",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0",
